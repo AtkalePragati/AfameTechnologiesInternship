@@ -12,7 +12,7 @@ total sales,
 determine the best-selling products, and build visualizations. 
 4. This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
  empowering you to provide data-driven suggestions for improving sales tactics.
-
+Path --> https://github.com/AtkalePragati/AfameTechnologiesInternship/tree/Ecommerce_Data_Analysis
 
 ### **2.HR_Data_Analysis --->**
 
@@ -22,3 +22,5 @@ determine the best-selling products, and build visualizations.
 -  sanitizing specific columns.
 -  Eliminate the dataset's NaN values.
 -  Look for a few more changes if necessary
+
+- Path -->https://github.com/AtkalePragati/AfameTechnologiesInternship/tree/HR_Data_Analysis
